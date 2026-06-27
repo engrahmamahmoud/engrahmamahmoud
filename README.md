@@ -1,8 +1,15 @@
-<h1 align="center"># 👋 Hi, I'm Rahma Mahmoud
+<p align="center">
+  <img src="assets/banner.png" alt="Rahma Mahmoud Banner" width="100%">
+</p>
 
-### Flutter Developer 💙 | Embedded Systems Enthusiast ⚙️ | Future AI Engineer 🤖d</h1>
+<h1 align="center">
+👋 Hi, I'm Rahma Mahmoud
+</h1>
 
+<h3 align="center">
+Flutter Developer 💙 | Embedded Systems Enthusiast ⚙️ | Future AI Engineer 🤖
 </h3>
+
 ## 👩‍💻 About Me
 
 I'm a Flutter Developer passionate about building modern and scalable mobile applications.
