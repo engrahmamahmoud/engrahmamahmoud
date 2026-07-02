@@ -93,7 +93,7 @@ Currently, I'm expanding my knowledge in Embedded Systems while preparing to int
 ## 🌍 Connect With Me
 
 - 📧 Email: mahmmoudrahma9@gmail.com
-- 💼 LinkedIn → Updating Soon(Portfolio → Under Development)
+- 💼 LinkedIn: https://www.linkedin.com/in/rahma-mahmmoud-43398a26b?
 - 🐙 GitHub: https://github.com/eng-rahma_mahmoud
 
 
