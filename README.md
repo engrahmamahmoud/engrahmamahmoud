@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="assets/banner.png" alt="Rahma Mahmoud Banner" width="100%">
-</p>
+<img src="ChatGPT%20Image%20Jun%2027,%202026,%2007_31_16%20PM.png">
 
 <h1 align="center">
 👋 Hi, I'm Rahma Mahmoud
